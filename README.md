@@ -12,9 +12,10 @@ Put auth.txt in lms folder then run:
 **gfe:**
 Don't need to put anything in this folder. Run following commands one by one.
 
-    python gfe/data.py
+    python gfe/attack.py
     python gfe/graph_map.py
     python gfe/features.py
     python gfe/data.py
 
+Remember to change the scenario that you want to detect in 'attack.py'.
 After running these scripts, you'll find a file named 'auth.csv' under gfe folder. This is LAMD's training data. 
