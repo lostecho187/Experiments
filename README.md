@@ -3,7 +3,7 @@
 ### Get the public data
 Access to the [Los Alamos National Laboratory (LANL) Dataset (auth.txt.gz)](https://csr.lanl.gov/data/cyber1/).
 
-Or use 'auth.txt' instead. We selected 25 million logs out of the LANL dataset, since it's too huge.
+Or use 'lms/auth.txt' instead. We selected 25 million logs out of the LANL dataset, since it's too huge.
 
 ### Run lms and gfe
 **Lms:**
