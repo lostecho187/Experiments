@@ -4,6 +4,9 @@
 Access to the [Los Alamos National Laboratory (LANL) Dataset (auth.txt.gz)](https://csr.lanl.gov/data/cyber1/).
 
 Or use 'data/auth.txt' instead. We selected 25 million logs out of the LANL dataset, since it's too huge.
+Due to file size limitations, some files have been uploaded to Google Drive and can be downloaded through the following link:
+
+[data.rar](https://drive.google.com/your-shared-link).
 
 ### Run lms and gfe
 **Lms:**
